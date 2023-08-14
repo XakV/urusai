@@ -1,4 +1,4 @@
-# Starting point
+# urusai
 
 [![build-ublue](https://github.com/xakv/urusai/actions/workflows/build.yml/badge.svg)](https://github.com/xakv/urusai/actions/workflows/build.yml)
 
